@@ -1,10 +1,10 @@
 {
   "soundbank": {
     "0": {
-      "Name": "KMActOne",
-      "Author": "Kevin Macleod",
+      "Name": "JW-LSW-TCS-ImperialAttack",
+      "Author": "John Williams",
       "PlayInsteadOf": "background",
-      "Source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Tenebrous%20Brothers%20Carnival%20-%20Act%20One.mp3"
+      "Source": "https://downloads.khinsider.com/game-soundtracks/album/lego-star-wars-the-complete-saga/03.%2520Imperial%2520Attack.mp3"
     },
     "1": {
       "Name": "KMElevator",
