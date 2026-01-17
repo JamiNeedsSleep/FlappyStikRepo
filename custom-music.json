@@ -1,6 +1,6 @@
 {
   "SoundBank": {
-    0: {
+    "0": {
       "Name": "ElevatorBackground",
       "Author": "Kevin Macleod",
       "PlayInsteadOf": "background"
