@@ -7,10 +7,10 @@
       "Source": "https://jetta.vgmtreasurechest.com/soundtracks/lego-star-wars-the-complete-saga/erxnxzez/03.%20Imperial%20Attack.mp3"
     },
     "1": {
-      "Name": "KMElevator",
-      "Author": "Kevin Macleod",
+      "Name": "WiiSports-TitleTheme",
+      "Author": "Nintendo",
       "PlayInsteadOf": "menu",
-      "Source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast%20-%20Elevator.mp3"
+      "Source": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-wii/pzadqubw/02%20Title%20Screen.mp3"
     }
   }
 }
