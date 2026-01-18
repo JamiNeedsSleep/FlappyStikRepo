@@ -3,7 +3,7 @@
     "0": {
       "Name": "JW-LSW-TCS-ImperialAttack",
       "Author": "John Williams",
-      "PlayInsteadOf": "background",
+      "PlayInsteadOf": "background_hardplus",
       "Source": "https://jetta.vgmtreasurechest.com/soundtracks/lego-star-wars-the-complete-saga/erxnxzez/03.%20Imperial%20Attack.mp3"
     },
     "1": {
@@ -11,6 +11,12 @@
       "Author": "Nintendo",
       "PlayInsteadOf": "menu",
       "Source": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-wii/pzadqubw/02%20Title%20Screen.mp3"
+    },
+    "2": {
+      "Name": "DoorsJam",
+      "Author": "John Williams",
+      "PlayInsteadOf": "background_normal",
+      "Source": "https://nu.vgmtreasurechest.com/soundtracks/doors-original-game-soundtrack-vol.-4-2024/hfcylhdv/03.%20Jeff%27s%20Jam.mp3"
     }
   }
 }
